@@ -1,7 +1,7 @@
 ### Hi, I'm Magno
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning Javascript/Typescript for fullstack web development
+- 🌱 I’m currently learning Javascript/Typescript for back-end web development
 - 🖥️ And learning C and Assembly for low-level programming
 - 🎼 I like classical music and composition
 
