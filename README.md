@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Javascript/Typescript for back-end web development
-- 🖥️ And learning C and Assembly for low-level programming
-- 🎼 I like classical music and composition
 
 <div align="left">
   <a href="https://github.com/Magno-MJ">
