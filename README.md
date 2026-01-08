@@ -2,11 +2,6 @@
 
 - 🔭 I’m currently working on web development
 - 🌱 Backend developer
-
-<div align="left">
-  <a href="https://github.com/Magno-MJ">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magno-Mj&layout=compact&langs_count=7&theme=algolia"/>
-</div>
   
 <div>
   <h1>Technologies</h1>
